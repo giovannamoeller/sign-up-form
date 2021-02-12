@@ -3,10 +3,10 @@
 
 Página de cadastro utilizando HTML e CSS.<br />
 Esse projeto foi feito para um tutorial no youtube.<br />
-###### Link do tutorial: https://youtu.be/jAr98quOZMY
+##### Link do tutorial: https://youtu.be/jAr98quOZMY
 ## 🚀 Começando
 
 Para iniciar o projeto é só abrir o arquivo `index.html` no seu navegador de preferência.
 
 ---
-⌨️ com ❤️ por [Giovanna Moeller](https://github.com/giovannamoeller)
+Feito com ❤️  por [Giovanna Moeller](https://github.com/giovannamoeller)
