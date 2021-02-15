@@ -1,9 +1,9 @@
 
 # Sign Up Form
 
-Sign Up page using HTML and CSS<br />
+Sign Up page using HTML and CSS.<br />
 This project was made for a youtube tutorial.<br />
-**Tutorial link: https://youtu.be/jAr98quOZMY**
+**Youtube link: https://youtu.be/jAr98quOZMY**
 ### Web Version
 <img src="final.png" alt="Web Version"/>
 
