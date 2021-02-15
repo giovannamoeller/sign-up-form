@@ -1,15 +1,15 @@
 
 # Sign Up Form
 
-Página de cadastro utilizando HTML e CSS.<br />
-Esse projeto foi feito para um tutorial no youtube.<br />
-**Link do tutorial: https://youtu.be/jAr98quOZMY**
+Sign Up page using HTML and CSS<br />
+This project was made for a youtube tutorial.<br />
+**Tutorial link: https://youtu.be/jAr98quOZMY**
 ### Web Version
 <img src="final.png" alt="Web Version"/>
 
-## 🚀 Começando
+## 🚀 Starting
 
-Para iniciar o projeto é só abrir o arquivo `index.html` no seu navegador de preferência.
+To start the project, just open the file `index.html` in your preferred browser.
 
 ---
-Feito com ❤️  por [Giovanna Moeller](https://github.com/giovannamoeller)
+Coded with ❤️  by [Giovanna Moeller](https://github.com/giovannamoeller)
