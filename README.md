@@ -3,7 +3,7 @@
 
 Página de cadastro utilizando HTML e CSS.<br />
 Esse projeto foi feito para um tutorial no youtube.<br />
-##### Link do tutorial: https://youtu.be/jAr98quOZMY
+**Link do tutorial: https://youtu.be/jAr98quOZMY**
 ### Web Version
 <img src="final.png" alt="Web Version"/>
 
