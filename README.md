@@ -7,6 +7,7 @@ This project was made for a youtube tutorial.<br /><br/>
 ### Web Version
 <img src="assets/final.png" alt="Web Version"/>
 ### Mobile Version
+
 <img src="assets/final-mobile.png" alt="Mobile Version"/>
 
 ## 🚀 Starting
