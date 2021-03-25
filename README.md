@@ -6,6 +6,7 @@ This project was made for a youtube tutorial.<br /><br/>
 **Youtube link: https://youtu.be/jAr98quOZMY**
 ### Web Version
 <img src="assets/final.png" alt="Web Version"/>
+
 ### Mobile Version
 <img src="assets/final-mobile.png" alt="Mobile Version"/>
 
@@ -14,4 +15,4 @@ This project was made for a youtube tutorial.<br /><br/>
 To start the project, just open the file `index.html` in your preferred browser.
 
 ---
-Coded with ❤️  by [Giovanna Moeller](https://github.com/giovannamoeller)
+##### Coded with love by Giovanna Moeller ♥️
